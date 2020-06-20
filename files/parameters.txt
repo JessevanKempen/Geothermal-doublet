@@ -1,0 +1,1 @@
+{"well": [{"epsilon": 0.046, "r": 0.126, "Ti_inj": 30, "Q": 0.09166666666666666, "L": 1000}], "aquifer": [{"viscosity": 0.00089, "T_surface": 20, "labda": 0.031, "rho_f": 1080, "g": 9.81, "rho_s": 2711, "Cp_f": 4183, "Cp_s": 910, "H": 140, "porosity": 0.05, "K": 4e-13, "labda_s": 1.9, "d_top": 2400, "permeability": 9e-10}]}

@@ -1,0 +1,1 @@
+{"aquifer": [{"d_top": 900, "labda": 0.031, "H": 200, "T_surface": 20, "porosity": 0.05, "rho_f": 1000, "mhu": 0.00089, "K": 4e-13}], "well": [{"r": 0.076, "Q": 0.04, "L": 1000, "Ti_inj": 30, "epsilon": 0.046}]}
